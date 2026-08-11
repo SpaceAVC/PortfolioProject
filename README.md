@@ -3,5 +3,8 @@
 <hr />
 <ol>
   <li><a href="https://spaceavc.github.io/Rehan-s-Portfolio-Project/public/movie-ranking.html">Movie Ranking List (USING ONLY HTML)</a></li>
-  <p>This is the first project that I made when <br />
-  start Coding and Learn 2 or 3 things in HTML</p>
+  <ul>
+    <li>This is the first project that I made when start Coding and Learn 2 or 3 things in HTML</li>
+  </ul>
+</ol>
+
