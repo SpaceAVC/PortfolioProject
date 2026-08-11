@@ -7,4 +7,5 @@
  <p>This is the second project that I made when I was learning HTML and This is the first one where I used Hyper Link to add other things inside it. </p>
  <li><a href="https://spaceavc.github.io/RESUME-PROJECT-BY-USING-CAPSTONE./">Resume Project (Capstone Method). </a></li>
  <p>This is where I used all the resources and things all over HTML in one place and made my resume using everything. </p>
-</ol>
+ <li><a href="https://spaceavc.github.io/Vocab-Spanish-Project-/">Learning Spanish Colors (Basic CSS). </a></li>
+ <p>So Basically this is the part where I have start learning CSS and this is the first one where I used one basic CSS. </p>
