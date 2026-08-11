@@ -9,3 +9,4 @@
  <p>This is where I used all the resources and things all over HTML in one place and made my resume using everything. </p>
  <li><a href="https://spaceavc.github.io/Vocab-Spanish-Project-/">Learning Spanish Colors (Basic CSS). </a></li>
  <p>So Basically this is the part where I have start learning CSS and this is the first one where I used one basic CSS. </p>
+</ol>
