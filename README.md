@@ -1,4 +1,4 @@
-<h1>Rehan-s-Portfolio-Project</h1>
+<h1>Portfolio Project</h1>
 <p>There are total 5 Project that I build in early days of learning HTM and CSS.</p>
 <ol>
   <li><a href="https://spaceavc.github.io/Rehan-s-Portfolio-Project/public/movie-ranking.html">Movie Ranking List (USING ONLY HTML). </a></li>
